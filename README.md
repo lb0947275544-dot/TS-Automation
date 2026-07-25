@@ -22,7 +22,7 @@ https://github.com/lb0947275544-dot/AI-Facebook-Content-Generator
 ### AI Meeting Summarizer
 Automatically summarize meetings and extract key information.
 
-https://payhip.com/b/x7q3j
+https://github.com/lb0947275544-dot/AI-Meeting-Summarizer
 
 ### AI Follow-up Email Writer
 Generate professional follow-up emails with AI.
@@ -48,7 +48,7 @@ A bundle containing 5 AI automation workflows.
 https://github.com/lb0947275544-dot/AI-Productivity-Pack
 
 
-[Buy AI Productivity Pack](https://payhip.com/b/c7ziT))
+https://payhip.com/b/c7ziT
 
 ---
 
