@@ -17,7 +17,7 @@ https://payhip.com/TSAutomation
 ### AI Facebook Content Generator
 Create engaging Facebook content automatically with AI.
 
-https://payhip.com/b/68UXJ
+https://github.com/lb0947275544-dot/AI-Facebook-Content-Generator
 
 ### AI Meeting Summarizer
 Automatically summarize meetings and extract key information.
@@ -27,17 +27,17 @@ https://payhip.com/b/x7q3j
 ### AI Follow-up Email Writer
 Generate professional follow-up emails with AI.
 
-https://payhip.com/b/hoFWR
+https://github.com/lb0947275544-dot/AI-Follow-up-Email-Writer
 
 ### AI Task Extractor
 Extract tasks and action items from text using AI.
 
-https://payhip.com/b/rLaHw
+https://github.com/lb0947275544-dot/AI-Task-Extractor
 
 ### AI Lead Qualification System
 Automatically analyze and qualify leads using AI.
 
-https://payhip.com/b/F1OjK
+https://github.com/lb0947275544-dot/AI-Lead-Qualification-System
 
 ---
 
