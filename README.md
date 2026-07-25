@@ -45,7 +45,8 @@ https://payhip.com/b/F1OjK
 
 A bundle containing 5 AI automation workflows.
 
-[View Bundle Repository](https://payhip.com/b/c7ziT))
+https://github.com/lb0947275544-dot/AI-Productivity-Pack
+
 
 [Buy AI Productivity Pack](https://payhip.com/b/c7ziT))
 
