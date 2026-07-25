@@ -8,7 +8,7 @@ We create ready-to-use AI automation workflows designed to help businesses save 
 
 ## 🛒 Store
 
-[Visit TS Automation Store](ใส่ลิงก์ร้าน Payhipของคุณ)
+https://payhip.com/TSAutomation
 
 ---
 
@@ -17,27 +17,27 @@ We create ready-to-use AI automation workflows designed to help businesses save 
 ### AI Facebook Content Generator
 Create engaging Facebook content automatically with AI.
 
-[View Repository](ใส่ลิงก์ Repository)
+https://payhip.com/b/68UXJ
 
 ### AI Meeting Summarizer
 Automatically summarize meetings and extract key information.
 
-[View Repository](ใส่ลิงก์ Repository)
+https://payhip.com/b/x7q3j
 
 ### AI Follow-up Email Writer
 Generate professional follow-up emails with AI.
 
-[View Repository](ใส่ลิงก์ Repository)
+https://payhip.com/b/hoFWR
 
 ### AI Task Extractor
 Extract tasks and action items from text using AI.
 
-[View Repository](ใส่ลิงก์ Repository)
+https://payhip.com/b/rLaHw
 
 ### AI Lead Qualification System
 Automatically analyze and qualify leads using AI.
 
-[View Repository](ใส่ลิงก์ Repository)
+https://payhip.com/b/F1OjK
 
 ---
 
@@ -45,9 +45,9 @@ Automatically analyze and qualify leads using AI.
 
 A bundle containing 5 AI automation workflows.
 
-[View Bundle Repository](ใส่ลิงก์ AI-Productivity-Pack Repository)
+[View Bundle Repository](https://payhip.com/b/c7ziT))
 
-[Buy AI Productivity Pack](ลิงก์สินค้า Bundle ใน Payhip)
+[Buy AI Productivity Pack](https://payhip.com/b/c7ziT))
 
 ---
 
