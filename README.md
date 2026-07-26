@@ -1,4 +1,3 @@
-![TS Automation Banner.jpg](banner.jpg)
 # TS Automation
 
 ## AI Automation & n8n Workflow Portfolio
@@ -59,6 +58,8 @@ https://github.com/lb0947275544-dot/AI-Lead-Qualification-System
 
 🛒 **Buy Now**
 https://payhip.com/b/F1OjK
+
+
 ---
 
 ## 📦 AI Productivity Pack
