@@ -1,4 +1,4 @@
-![TS Automation Banner.jpg](banner.png)
+![TS Automation Banner.jpg](banner.jpg)
 # TS Automation
 
 ## AI Automation & n8n Workflow Portfolio
