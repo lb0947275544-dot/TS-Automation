@@ -17,16 +17,16 @@ https://payhip.com/TSAutomation
 ### AI Facebook Content Generator
 Create engaging Facebook content automatically with AI.
 
-🔗 {Repository}
+🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Facebook-Content-Generator
 
-🛒 [Buy Now]
+🛒 **Buy Now**
 https://payhip.com/b/68UXJ
 
 ### AI Meeting Summarizer
 Automatically summarize meetings and extract key information.
 
-🔗 [Repository]
+🔗 [[Repository]]
 https://github.com/lb0947275544-dot/AI-Meeting-Summarizer
 
 🛒 [Buy Now]
