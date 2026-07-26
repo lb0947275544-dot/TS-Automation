@@ -57,7 +57,7 @@ Automatically analyze and qualify leads using AI.
 https://github.com/lb0947275544-dot/AI-Lead-Qualification-System
 
 🛒 **Buy Now**
-https://payhip.com/b/F1OjK
+[Buy Bundle]https://payhip.com/b/F1OjK
 
 
 ---
