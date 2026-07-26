@@ -1,4 +1,4 @@
-![TS Automation Banner](banner.png)
+![TS Automation Banner.jpg](banner.png)
 # TS Automation
 
 ## AI Automation & n8n Workflow Portfolio
@@ -65,8 +65,10 @@ https://payhip.com/b/F1OjK
 
 A bundle containing 5 AI automation workflows.
 
+
 🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Productivity-Pack
+
 
 🛒 **Buy Now**
 https://payhip.com/b/c7ziT
