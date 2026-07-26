@@ -17,7 +17,7 @@ https://payhip.com/TSAutomation
 ### AI Facebook Content Generator
 Create engaging Facebook content automatically with AI.
 
-🔗[Repository]
+🔗 [Repository]
 https://github.com/lb0947275544-dot/AI-Facebook-Content-Generator
 
 🛒 [Buy Now]
