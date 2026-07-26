@@ -26,37 +26,37 @@ https://payhip.com/b/68UXJ
 ### AI Meeting Summarizer
 Automatically summarize meetings and extract key information.
 
-🔗 [[Repository]]
+🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Meeting-Summarizer
 
-🛒 [Buy Now]
+🛒 **Buy Now**
 https://payhip.com/b/x7q3j
 
 ### AI Follow-up Email Writer
 Generate professional follow-up emails with AI.
 
-🔗 [Repository]
+🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Follow-up-Email-Writer
 
-🛒 [Buy Now]
+🛒 **Buy Now**
 https://payhip.com/b/hoFWR
 
 ### AI Task Extractor
 Extract tasks and action items from text using AI.
 
-🔗 [Repository]
+🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Task-Extractor
 
-🛒 [Buy Now]
+🛒 **Buy Now**
 https://payhip.com/b/rLaHw
 
 ### AI Lead Qualification System
 Automatically analyze and qualify leads using AI.
 
-🔗 [Repository]
+🔗 **Repository**
 https://github.com/lb0947275544-dot/AI-Lead-Qualification-System
 
-🛒 [Buy Now]
+🛒 **Buy Now**
 https://payhip.com/b/F1OjK
 
 ---
