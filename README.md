@@ -20,7 +20,7 @@ https://payhip.com/TSAutomation
 
 ---
 
-# 🤖 AI Automation Products
+# 🤖 AI Automation Workflows
 
 ## AI Facebook Content Generator
 
