@@ -4,7 +4,7 @@
 
 Welcome to TS Automation.
 
-We design practical AI automation workflows using n8n and AI technologies to help businesses reduce repetitive work, improve productivity, and streamline daily operations.
+We create practical AI automation workflows using n8n and AI technologies to help businesses reduce repetitive work and improve productivity.
 
 Our workflows are built with:
 - Simple and maintainable design
