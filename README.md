@@ -1,10 +1,18 @@
 # TS Automation
 
-## AI Automation & n8n Workflow Portfolio
+## AI Automation & n8n Workflow Solutions
 
 Welcome to TS Automation.
 
-We create ready-to-use AI automation workflows designed to help businesses save time, improve productivity, and automate repetitive tasks.
+We design practical AI automation workflows using n8n and AI technologies to help businesses reduce repetitive work, improve productivity, and streamline daily operations.
+
+Our workflows are built with:
+- Simple and maintainable design
+- Customer-owned credentials
+- Clear documentation
+- Easy customization
+
+---
 
 ## 🛒 Store
 
@@ -12,86 +20,112 @@ https://payhip.com/TSAutomation
 
 ---
 
-## 🤖 AI Business Automation
+# 🤖 AI Automation Products
 
-### AI Facebook Content Generator
-Create engaging Facebook content automatically with AI.
+## AI Facebook Content Generator
 
-🔗 **Repository**
+Generate AI-assisted Facebook content to help businesses create posts faster.
+
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Facebook-Content-Generator
 
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/68UXJ
 
-### AI Meeting Summarizer
-Automatically summarize meetings and extract key information.
 
-🔗 **Repository**
+## AI Meeting Summarizer
+
+Convert meeting notes into structured summaries and action items.
+
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Meeting-Summarizer
 
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/x7q3j
 
-### AI Follow-up Email Writer
-Generate professional follow-up emails with AI.
 
-🔗 **Repository**
+## AI Follow-up Email Writer
+
+Create professional follow-up email drafts with AI assistance.
+
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Follow-up-Email-Writer
 
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/hoFWR
 
-### AI Task Extractor
-Extract tasks and action items from text using AI.
 
-🔗 **Repository**
+## AI Task Extractor
+
+Extract tasks and action items from text automatically.
+
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Task-Extractor
 
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/rLaHw
 
-### AI Lead Qualification System
-Automatically analyze and qualify leads using AI.
 
-🔗 **Repository**
+## AI Lead Qualification System
+
+Analyze and organize leads using AI-based qualification workflows.
+
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Lead-Qualification-System
 
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/F1OjK
 
 ---
 
-## 📦 AI Productivity Pack
+# 📦 AI Productivity Pack
 
-A bundle containing 5 AI automation workflows.
+A complete bundle containing 5 AI automation workflows:
+
+- AI Facebook Content Generator
+- AI Meeting Summarizer
+- AI Follow-up Email Writer
+- AI Task Extractor
+- AI Lead Qualification System
 
 
-🔗 **Repository**
+🔗 Repository  
 https://github.com/lb0947275544-dot/AI-Productivity-Pack
 
-
-🛒 **Buy Now**
+🛒 Product  
 https://payhip.com/b/c7ziT
 
 ---
 
-## 🚀 What's Next
+# 🛠 Workflow Standards
 
-More AI automation workflows are coming soon.
+All TS Automation workflows follow these principles:
 
-Our roadmap includes:
-
-- AI Business Automation
-- Sales & CRM Automation
-- Marketing Automation
-- Productivity Automation
-- Cyber Security Automation
-- Developer & Data Automation
-
-## About TS Automation
-
-TS Automation focuses on practical AI automation solutions using n8n and AI technologies.
+- No included API keys or private credentials
+- Customer connects their own accounts
+- Clear setup documentation
+- Sample input and output examples
+- Human approval for important workflow changes
 
 ---
 
-**Created by TS Automation**
+# 🚀 Roadmap
+
+Future development areas:
+
+- Business Process Automation
+- Sales & CRM Automation
+- Marketing Automation
+- Productivity Automation
+- Security Automation
+- Data & Developer Automation
+
+---
+
+# About TS Automation
+
+TS Automation creates practical AI automation solutions using n8n to help businesses automate repetitive processes and improve operational efficiency.
+
+---
+
+Created by TS Automation
